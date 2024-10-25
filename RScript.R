@@ -87,3 +87,4 @@ map <- tm_shape(OSM_WASHINGTON) + # Base OSM
 
 # Print the map
 print(map)
+###
